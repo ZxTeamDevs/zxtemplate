@@ -39,4 +39,4 @@ npm run start # For production
 
 ## Show your support
 
-Give a â­ï¸ if this project helped you!
+Give a ⭐ if this project helped you!
