@@ -8,7 +8,7 @@ module.exports.run = async (client) => {
     const statuses = [
       `${client.guilds.cache.size} Guilds`,
       `${client.users.cache.size} Users`,
-      `github.com/IMXNOOBX`,
+      `github.com/ZxTeamDevs`,
     ];
     const status = statuses[Math.floor(Math.random() * statuses.length)]; // Easy way to make random dynamic statuses
     client.user.setActivity(status, { type: client.discord.ActivityType.Watching }); // LISTENING, WATCHING, PLAYING
