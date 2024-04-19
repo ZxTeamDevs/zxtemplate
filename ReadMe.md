@@ -2,7 +2,7 @@
 
 > This is my main discord bot template. Its a simple-to-use template for discord.js `v14.14.1`. It has a lot of features and utilities to start coding your bot right away. It also has a simple command example (ping).
 
-## ðŸ¥ Features
+## 📜: Features
 
 ```js
 const main = [
@@ -24,13 +24,13 @@ const error = [
 ]
 ```
 
-## ðŸ’ˆ Install
+## 📦: Install
 
 ```sh
 npm install
 ```
 
-## ðŸ“— Usage
+## 🔋: Usage
 
 ```sh
 npm run dev # For development
